@@ -1,0 +1,22 @@
+{
+  "name": "punab",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000u\u0000n\u0000a\u0000b\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah Al Fuad",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.0",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  }
+}
